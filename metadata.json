@@ -1,0 +1,7 @@
+{
+  "name": "FuturoRun>1 ",
+  "description": "Futuristic training platform for runners with AI-powered personalized plans, predictive performance metrics (Futuro Mode), and local routes in Cangas & Moaña.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
